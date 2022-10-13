@@ -1,0 +1,6 @@
+name: PhoenixLib
+version: 1.6AEF
+description: An advanced library for developers
+author: Phoenix
+main: me.unknown.lib.Lib
+api-version: 1.17
